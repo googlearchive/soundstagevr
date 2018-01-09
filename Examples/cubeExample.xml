@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SynthSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Instruments>
+    <Instruments xsi:type="ControlCubeData">
+      <ID>0</ID>
+      <deviceType>ControlCube</deviceType>
+      <position>
+        <x>0.8537307</x>
+        <y>1.39416718</y>
+        <z>-0.3151701</z>
+      </position>
+      <scale>
+        <x>1.00000584</x>
+        <y>1.00000036</y>
+        <z>1.00000477</z>
+      </scale>
+      <rotation>
+        <x>0.0251134858</x>
+        <y>-0.393514931</y>
+        <z>0.0275008976</z>
+        <w>0.9185636</w>
+        <eulerAngles>
+          <x>3.88652754</x>
+          <y>313.679138</y>
+          <z>1.76662159</z>
+        </eulerAngles>
+      </rotation>
+      <jackOutID>
+        <int>-974328</int>
+        <int>-974362</int>
+        <int>-974396</int>
+        <int>-974520</int>
+      </jackOutID>
+      <dimensionValues>
+        <float>0.144340873</float>
+        <float>0.0415312052</float>
+        <float>0.134381086</float>
+      </dimensionValues>
+      <muted>false</muted>
+      <volume>0.3</volume>
+    </Instruments>
+  </Instruments>
+  <Plugs />
+  <Systems>
+    <Systems>
+      <BPM>60</BPM>
+      <version>0.75</version>
+    </Systems>
+  </Systems>
+</SynthSet>

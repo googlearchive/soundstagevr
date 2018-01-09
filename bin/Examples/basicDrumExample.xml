@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SynthSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Instruments>
+    <Instruments xsi:type="TapeGroupData">
+      <ID>0</ID>
+      <deviceType>TapeGroup</deviceType>
+      <position>
+        <x>-0.449783266</x>
+        <y>0.6701743</y>
+        <z>0.2784446</z>
+      </position>
+      <scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </scale>
+      <rotation>
+        <x>-0.08683166</x>
+        <y>0.8459187</y>
+        <z>0.09467514</z>
+        <w>0.5176084</w>
+        <eulerAngles>
+          <x>345.518677</x>
+          <y>117.443832</y>
+          <z>357.105316</z>
+        </eulerAngles>
+      </rotation>
+      <samplegroup>808 Drums</samplegroup>
+    </Instruments>
+    <Instruments xsi:type="DrumData">
+      <ID>-461520</ID>
+      <deviceType>Drum</deviceType>
+      <position>
+        <x>-0.415899932</x>
+        <y>0.7088348</y>
+        <z>-0.125830144</z>
+      </position>
+      <scale>
+        <x>1.00000036</x>
+        <y>0.9999999</y>
+        <z>1</z>
+      </scale>
+      <rotation>
+        <x>-0.207693577</x>
+        <y>-0.609409153</y>
+        <z>0.230256766</z>
+        <w>-0.729702532</w>
+        <eulerAngles>
+          <x>35.7147522</x>
+          <y>77.8443146</y>
+          <z>354.139984</z>
+        </eulerAngles>
+      </rotation>
+      <jackOutSampID>-461748</jackOutSampID>
+      <jackOutSigID>-461590</jackOutSigID>
+      <tapeLabel>808 Tom Low</tapeLabel>
+      <tapeFile>APP\808 Drums\808 Tom Low.wav</tapeFile>
+    </Instruments>
+    <Instruments xsi:type="DrumData">
+      <ID>-462328</ID>
+      <deviceType>Drum</deviceType>
+      <position>
+        <x>-0.7063863</x>
+        <y>1.03404808</y>
+        <z>-0.215772256</z>
+      </position>
+      <scale>
+        <x>1.00000179</x>
+        <y>1.00000143</y>
+        <z>1.000002</z>
+      </scale>
+      <rotation>
+        <x>-0.3578547</x>
+        <y>0.5307353</y>
+        <z>0.2280347</z>
+        <w>0.7336623</w>
+        <eulerAngles>
+          <x>309.902161</x>
+          <y>73.6554642</y>
+          <z>355.954865</z>
+        </eulerAngles>
+      </rotation>
+      <jackOutSampID>-462556</jackOutSampID>
+      <jackOutSigID>-462398</jackOutSigID>
+      <tapeLabel />
+      <tapeFile />
+    </Instruments>
+    <Instruments xsi:type="DrumData">
+      <ID>-461932</ID>
+      <deviceType>Drum</deviceType>
+      <position>
+        <x>-0.6320922</x>
+        <y>0.7955093</y>
+        <z>0.3316831</z>
+      </position>
+      <scale>
+        <x>1.00000262</x>
+        <y>1.00000036</y>
+        <z>1.00000119</z>
+      </scale>
+      <rotation>
+        <x>-0.0145714134</x>
+        <y>0.214093387</y>
+        <z>-0.00428919634</z>
+        <w>0.9766951</w>
+        <eulerAngles>
+          <x>358.4742</x>
+          <y>24.7387428</y>
+          <z>359.16214</z>
+        </eulerAngles>
+      </rotation>
+      <jackOutSampID>-462160</jackOutSampID>
+      <jackOutSigID>-462002</jackOutSigID>
+      <tapeLabel>808 Cowbell</tapeLabel>
+      <tapeFile>APP\808 Drums\808 Cowbell.wav</tapeFile>
+    </Instruments>
+  </Instruments>
+  <Plugs />
+  <Systems>
+    <Systems>
+      <BPM>60</BPM>
+      <version>0.75</version>
+    </Systems>
+  </Systems>
+</SynthSet>

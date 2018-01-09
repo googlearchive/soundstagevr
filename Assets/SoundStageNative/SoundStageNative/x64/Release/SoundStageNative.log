@@ -1,0 +1,17 @@
+﻿  main.cpp
+main.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(195): warning C4309: '=': truncation of constant value
+main.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(406): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(407): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(420): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(425): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\jloga\Documents\SoundStageVR\Assets\SoundStageNative\SoundStageNative\x64\Release\SoundStageNative.lib and object C:\Users\jloga\Documents\SoundStageVR\Assets\SoundStageNative\SoundStageNative\x64\Release\SoundStageNative.exp
+  Generating code
+  21 of 34 functions (61.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SoundStageNative.vcxproj -> C:\Users\jloga\Documents\SoundStageVR\Assets\SoundStageNative\SoundStageNative\x64\Release\SoundStageNative.dll
+  SoundStageNative.vcxproj -> C:\Users\jloga\Documents\SoundStageVR\Assets\SoundStageNative\SoundStageNative\x64\Release\SoundStageNative.pdb (Full PDB)
